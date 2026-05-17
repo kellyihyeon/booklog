@@ -1,0 +1,13 @@
+# 옵시디언 시스템 설정 파일 (동기화 시 충돌의 주범)
+.obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# 만약 플러그인 자체도 올리고 싶지 않다면 (설치 기록만 남기고 싶을 때)
+.obsidian/plugins/
